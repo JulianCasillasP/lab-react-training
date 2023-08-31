@@ -1,0 +1,20 @@
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .carousel-image {
+    max-width: 300px;
+    max-height: 300px;
+  }
+  
+  .carousel-button {
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ccc;
+    cursor: pointer;
+  }

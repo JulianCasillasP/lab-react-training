@@ -1,0 +1,18 @@
+.numbers-table {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .number {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    margin: 5px;
+  }
+  
+  .even {
+    background-color: red;
+  }
